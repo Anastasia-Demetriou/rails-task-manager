@@ -1,3 +1,41 @@
+h1 {
+font-family: 'Montserrat', sans-serif;
+font-size: 40px;
+color: rgb(48, 121, 171);
+}
+
+h2 {
+display: inline-flex;
+font-family: 'Montserrat', sans-serif;
+font-size: 20px;
+color: rgb(48, 121, 171);
+}
+
+.btn {
+  margin-left: 200px;
+}
+
+
+.far {
+  margin-left: 10px;
+}
+
+.border {
+  border:2px solid rgba(60,60,60,0.8);
+  width: 40vw;
+  margin: 20px;
+  padding: 20px;
+}
+
+.details {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  color: rgb(48, 121, 171);
+
+}
+
+
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
